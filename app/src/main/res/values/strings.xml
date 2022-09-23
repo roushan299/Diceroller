@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Diceroller</string>
+    <string name="please_tap_the_roll_to_roll_the_dice">Please tap the Roll to roll the dice</string>
+    <string name="dice_roller">Dice roller</string>
+    <string name="roll">Roll</string>
+    <string name="todo">TODO</string>
+</resources>
